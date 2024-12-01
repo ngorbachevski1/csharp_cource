@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CNET\\NO_rep_learn_algo\\Module_1\\M1T1_levels\\",
+  "WorkspaceRootPath": "D:\\CNET\\Algo_Study_repository\\Module_1\\M1T1_levels\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B09AFE08-F2A9-4C15-8F8C-694BCBB53153}|FirstApp\\FirstApp.csproj|d:\\cnet\\no_rep_learn_algo\\module_1\\m1t1_levels\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B09AFE08-F2A9-4C15-8F8C-694BCBB53153}|FirstApp\\FirstApp.csproj|d:\\cnet\\algo_study_repository\\module_1\\m1t1_levels\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B09AFE08-F2A9-4C15-8F8C-694BCBB53153}|FirstApp\\FirstApp.csproj|solutionrelative:firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,8 +14,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CNET\\Algo_Study_repository\\Module_1\\M1T1_levels\\FirstApp\\Program.cs",
+              "RelativeDocumentMoniker": "FirstApp\\Program.cs",
+              "ToolTip": "D:\\CNET\\Algo_Study_repository\\Module_1\\M1T1_levels\\FirstApp\\Program.cs",
+              "RelativeToolTip": "FirstApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:58:32.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -23,19 +50,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CNET\\NO_rep_learn_algo\\Module_1\\M1T1_levels\\FirstApp\\Program.cs",
-              "RelativeDocumentMoniker": "FirstApp\\Program.cs",
-              "ToolTip": "D:\\CNET\\NO_rep_learn_algo\\Module_1\\M1T1_levels\\FirstApp\\Program.cs",
-              "RelativeToolTip": "FirstApp\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwCcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T16:58:32.334Z",
-              "EditorCaption": ""
             }
           ]
         }
