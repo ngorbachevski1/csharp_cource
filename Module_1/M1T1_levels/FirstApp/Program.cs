@@ -17,7 +17,7 @@ namespace FirstApp
             Console.WriteLine("Введите шаг уровня (только цифры): ");
             decimal stepSize = Convert.ToDecimal(Console.ReadLine());
 
-            // Определяем количество уровней | Для работы
+            // Определяем количество уровней 
             try
             {
                 int stepLevels = (int)((levelUp - levelDown) / stepSize) + 1;
